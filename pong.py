@@ -12,7 +12,7 @@
 #
 #		It's my first actual game-making attempt. I know code could be much better 
 #		with classes or defs but I tried to make it short and understandable with very 
-#		little knowledge of python and pygame(I'm one of them). Enjoy..
+#		little knowledge of python and pygame(I'm one of them). Enjoy.
 
 import pygame
 from pygame.locals import *
