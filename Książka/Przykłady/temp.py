@@ -20,7 +20,10 @@ print(Łańcuchy_znaków_3)
 
 # Listy
 
-Lista_1 = [1 ,2, 3]
+Lista_1 = [1, 2, 3]
+Lista_2 = [1, [2, 'trzy'], 4]
+
 print(Lista_1)
+print(Lista_2)
 
 
