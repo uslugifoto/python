@@ -1,5 +1,5 @@
 a = 5
-b = 5
+b = 6
 
 if a > b:
     print("a jest większe od b")
