@@ -25,5 +25,5 @@ Lista_2 = [1, [2, 'trzy'], 4]
 
 print(Lista_1)
 print(Lista_2)
-
+print(Lista_3)
 
