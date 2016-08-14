@@ -10,5 +10,5 @@ print(x)
 def cyfry(*args):
     print(args)
     return sum(args) / len(args)
-x = cyfry(2, 2, 2, 2, 2)
+x = cyfry(2, 2, 2, 2, 2, 2)
 print(x)
