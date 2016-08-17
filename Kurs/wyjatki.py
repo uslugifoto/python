@@ -19,3 +19,12 @@ except ZeroDivisionError as blad: # różnica pomiędzy tym a poprzednim przykł
 finally:
     print('Dalsza część programu')
     print(y)
+
+z = 6
+print(z)
+try:
+    if z == 5:
+        raise ValueError
+    print(z)
+except ValueError:
+    print("z musi być mniejsze od 5")
