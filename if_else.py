@@ -1,3 +1,5 @@
+import sys
+
 a = 5
 b = 6
 
@@ -15,3 +17,5 @@ else:
 #        print("a jest mniejsze od b")
 #    else:
 #        print("a jest równe b")
+
+print(sys.getrefcount(a))
